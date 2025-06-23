@@ -1,0 +1,12 @@
+D:\ServiceComponentDemoProject\ServiceComponent\bin\Debug\net9.0\ServiceComponent.deps.json
+D:\ServiceComponentDemoProject\ServiceComponent\bin\Debug\net9.0\ServiceComponent.dll
+D:\ServiceComponentDemoProject\ServiceComponent\bin\Debug\net9.0\ServiceComponent.pdb
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.csproj.AssemblyReference.cache
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.AssemblyInfoInputs.cache
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.AssemblyInfo.cs
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.csproj.CoreCompileInputs.cache
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.dll
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\refint\ServiceComponent.dll
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ServiceComponent.pdb
+D:\ServiceComponentDemoProject\ServiceComponent\obj\Debug\net9.0\ref\ServiceComponent.dll
